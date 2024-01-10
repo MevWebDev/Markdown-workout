@@ -31,4 +31,4 @@ while True:
 
 `print("Hello World)` and make your day happy
 
-!(https://github.com/MevWebDev/Markdown-workout/blob/main/kot.jpg)
+![alt text](https://github.com/MevWebDev/Markdown-workout/blob/main/kot.jpg)

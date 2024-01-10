@@ -26,5 +26,8 @@ Jak nie to pojde do Castoramy po line (mam blisko)
 ```python
 while True:
   print("Zdam stepika")
+  break
 ```
+
+`print("Hello World)` and make your day happy
 

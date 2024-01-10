@@ -11,3 +11,15 @@ Jak nie to pojde do Castoramy po line (mam blisko)
 
 > My unmatched perspicacity coupled with my sheer indefatigability makes me a feared opponent in any realm of human endeavour."
 
+# Lista numeryczna
+1. Jeden
+2. Dwa
+3. Trzy
+4. Cztery
+
+# Lista nienumeryczna
+* Franek
+* Grzegorz
+* Bajczel
+* Witk
+

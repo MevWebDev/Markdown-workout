@@ -23,3 +23,8 @@ Jak nie to pojde do Castoramy po line (mam blisko)
 * Bajczel
 * Witk
 
+```python
+while True:
+  print("Zdam stepika")
+```
+
